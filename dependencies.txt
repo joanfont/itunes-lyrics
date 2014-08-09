@@ -1,3 +1,4 @@
 beautifulsoup4
 appscript
 slugify
+mechanicalsoup
