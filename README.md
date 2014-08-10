@@ -16,4 +16,4 @@ All this python packages ara avaliable in PyPI.
 
 ##usage
 
-	python main.py
+	python3 main.py
